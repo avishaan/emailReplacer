@@ -1,7 +1,7 @@
 // var replace = require('replace-in-file');
 var fs = require('fs');
 var Chance = require('chance');
-var inputJSON = require('./input.json');
+var inputJSON = require('./users.json');
 
 var chance = new Chance();
 
